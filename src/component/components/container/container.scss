@@ -1,0 +1,27 @@
+.container {
+  width: 438px;
+  margin: 70px auto auto auto;
+}
+.previous{
+  color: #8c8c8c;
+  font-size: 14px;
+  border: none;
+  background-color: white;
+  font-family: "Plus-Jakarta-Sans-Regular";
+  display: flex;
+  margin-top: 71px;
+  position: absolute;
+  margin-left: 48px;
+  cursor: pointer;
+  text-align: center;
+}
+.previousbtn{
+  margin-left: 8px;
+}
+
+@media (max-width: 850px) {
+  .previous {
+    display: none;
+  }
+}
+     

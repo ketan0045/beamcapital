@@ -1,0 +1,21 @@
+.rounded_btn {
+  padding: 12px 32px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.active {
+  color: #009b73;
+  background: rgba(0, 155, 115, 0.03);
+  border: 1px solid #009b73;
+}
+.inactive {
+  background: #ffffff;
+  border: 1px solid #a3aed0;
+  color: #47548c;
+}
+.color{
+  color: red;
+}

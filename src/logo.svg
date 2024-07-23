@@ -1,0 +1,598 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3"><g fill="#61DAFB"><path d="M666.3 296.5c0-32.5-40.7-63.3-103.1-82.4 14.4-63.6 8-114.2-20.2-130.4-6.5-3.8-14.1-5.6-22.4-5.6v22.3c4.6 0 8.3.9 11.4 2.6 13.6 7.8 19.5 37.5 14.9 75.7-1.1 9.4-2.9 19.3-5.1 29.4-19.6-4.8-41-8.5-63.5-10.9-13.5-18.5-27.5-35.3-41.6-50 32.6-30.3 63.2-46.9 84-46.9V78c-27.5 0-63.5 19.6-99.9 53.6-36.4-33.8-72.4-53.2-99.9-53.2v22.3c20.7 0 51.4 16.5 84 46.6-14 14.7-28 31.4-41.3 49.9-22.6 2.4-44 6.1-63.6 11-2.3-10-4-19.7-5.2-29-4.7-38.2 1.1-67.9 14.6-75.8 3-1.8 6.9-2.6 11.5-2.6V78.5c-8.4 0-16 1.8-22.6 5.6-28.1 16.2-34.4 66.7-19.9 130.1-62.2 19.2-102.7 49.9-102.7 82.3 0 32.5 40.7 63.3 103.1 82.4-14.4 63.6-8 114.2 20.2 130.4 6.5 3.8 14.1 5.6 22.5 5.6 27.5 0 63.5-19.6 99.9-53.6 36.4 33.8 72.4 53.2 99.9 53.2 8.4 0 16-1.8 22.6-5.6 28.1-16.2 34.4-66.7 19.9-130.1 62-19.1 102.5-49.9 102.5-82.3zm-130.2-66.7c-3.7 12.9-8.3 26.2-13.5 39.5-4.1-8-8.4-16-13.1-24-4.6-8-9.5-15.8-14.4-23.4 14.2 2.1 27.9 4.7 41 7.9zm-45.8 106.5c-7.8 13.5-15.8 26.3-24.1 38.2-14.9 1.3-30 2-45.2 2-15.1 0-30.2-.7-45-1.9-8.3-11.9-16.4-24.6-24.2-38-7.6-13.1-14.5-26.4-20.8-39.8 6.2-13.4 13.2-26.8 20.7-39.9 7.8-13.5 15.8-26.3 24.1-38.2 14.9-1.3 30-2 45.2-2 15.1 0 30.2.7 45 1.9 8.3 11.9 16.4 24.6 24.2 38 7.6 13.1 14.5 26.4 20.8 39.8-6.3 13.4-13.2 26.8-20.7 39.9zm32.3-13c5.4 13.4 10 26.8 13.8 39.8-13.1 3.2-26.9 5.9-41.2 8 4.9-7.7 9.8-15.6 14.4-23.7 4.6-8 8.9-16.1 13-24.1zM421.2 430c-9.3-9.6-18.6-20.3-27.8-32 9 .4 18.2.7 27.5.7 9.4 0 18.7-.2 27.8-.7-9 11.7-18.3 22.4-27.5 32zm-74.4-58.9c-14.2-2.1-27.9-4.7-41-7.9 3.7-12.9 8.3-26.2 13.5-39.5 4.1 8 8.4 16 13.1 24 4.7 8 9.5 15.8 14.4 23.4zM420.7 163c9.3 9.6 18.6 20.3 27.8 32-9-.4-18.2-.7-27.5-.7-9.4 0-18.7.2-27.8.7 9-11.7 18.3-22.4 27.5-32zm-74 58.9c-4.9 7.7-9.8 15.6-14.4 23.7-4.6 8-8.9 16-13 24-5.4-13.4-10-26.8-13.8-39.8 13.1-3.1 26.9-5.8 41.2-7.9zm-90.5 125.2c-35.4-15.1-58.3-34.9-58.3-50.6 0-15.7 22.9-35.6 58.3-50.6 8.6-3.7 18-7 27.7-10.1 5.7 19.6 13.2 40 22.5 60.9-9.2 20.8-16.6 41.1-22.2 60.6-9.9-3.1-19.3-6.5-28-10.2zM310 490c-13.6-7.8-19.5-37.5-14.9-75.7 1.1-9.4 2.9-19.3 5.1-29.4 19.6 4.8 41 8.5 63.5 10.9 13.5 18.5 27.5 35.3 41.6 50-32.6 30.3-63.2 46.9-84 46.9-4.5-.1-8.3-1-11.3-2.7zm237.2-76.2c4.7 38.2-1.1 67.9-14.6 75.8-3 1.8-6.9 2.6-11.5 2.6-20.7 0-51.4-16.5-84-46.6 14-14.7 28-31.4 41.3-49.9 22.6-2.4 44-6.1 63.6-11 2.3 10.1 4.1 19.8 5.2 29.1zm38.5-66.7c-8.6 3.7-18 7-27.7 10.1-5.7-19.6-13.2-40-22.5-60.9 9.2-20.8 16.6-41.1 22.2-60.6 9.9 3.1 19.3 6.5 28.1 10.2 35.4 15.1 58.3 34.9 58.3 50.6-.1 15.7-23 35.6-58.4 50.6zM320.8 78.4z"/><circle cx="420.9" cy="296.5" r="45.7"/><path d="M520.5 78.1z"/></g></svg>
+
+<!-- // import React from "react";
+// import "./Authentication.scss";
+// import { useFormik } from "formik";
+// // import Verifycomnents from "./Verifycomnents";
+// // import { Authwithnumbervali } from "./Authwithnumbervali";
+// // import { useNavigate } from "react-router-dom";
+// import { validationSchema } from "../../schemas";
+// import InputField from "../Formcomponent/InputField";
+// import ButtonComp from "../Formcomponent/ButtonComp"
+
+// const initialValues = {
+//   phone: "",
+// };
+
+// const Authentication = () => {
+//   // const navigate = useNavigate();
+
+//   const Authentication = () => {
+//     // navigate("/Verifycomnents")
+//     if (String(values.phone).length === 10) {
+//       // navigate("/Verifycomnents");
+//     } else {
+//       console.log("error");
+//     }
+//   };
+
+//   const { values, errors, touched, handleBlur, handleChange, handleSubmit } =
+//     useFormik({
+//       initialValues,
+//       validationSchema:validationSchema,
+//       onSubmit: (values, action) => {
+//         console.log("Authentication Value---000", values);
+//         action.resetForm();
+//       },
+//     });
+//   console.log("Authentication Value---111", values);
+//   console.log("Authentication errors---222", errors);
+
+//   return (
+//     <div className="Authentication-div">
+
+//         <h2 className="data-heading">
+//           Apply for financial aid with Beam Capital
+//         </h2>
+//         <h4 className="data-title">
+//           Making critical financial aid accessible to everyone in India
+//         </h4>
+//         <form onSubmit={handleSubmit}>
+
+//           {/* <h4 className="data-input">Enter your mobile number</h4>
+
+//           <input
+//             type="number"
+//             autoComplete="off"
+//             name="phone"
+//             id="phone"
+//             placeholder="+91 98545 59863"
+//             className="data-inputfield"
+//             value={values.phone}
+//             onChange={(e)=> String(e.target.value).length < 11 ? handleChange(e) : ''}
+//             onBlur={handleBlur}
+//           />
+//           {errors.phone && touched.phone ? (
+//             <p className="auth-err">{errors.phone}</p>
+//           ) : null} */}
+//           <InputField name={"Enter your mobile number"} placeholder={"+91 98545 59863"}/>
+
+//           <br />
+//           {/* <button
+//             type="submit"
+//             className="continuebtn"
+//             onClick={Authentication}
+//             // onSubmit={handleSubmit}
+//           >
+//             Continue
+//           </button> */}
+//           <ButtonComp name={"Continue"}/>
+
+//         <h6 className="footerpart">
+//           By clicking continue, you agree with our <u>terms and conditions</u>
+//               and <u>privacy <br/> policy</u> .
+//         </h6>
+//       </form>
+//     </div>
+//   );
+// };
+
+// export default Authentication; -->
+
+
+
+
+
+aaaaj
+
+
+
+import React, { useState } from "react";
+import "./Authentication.scss";
+import { useFormik } from "formik";
+// import Authenticationvalidation from "../../schemas/Authenticationvalidation";
+import {Authenticationvalidation} from "../../schemas/Authenticationvalidation"
+import InputField from "../Formcomponent/InputField";
+import { validationSchema } from "../../schemas";
+import ButtonComp from "../Formcomponent/ButtonComp";
+import VerifyDetail from "./VerifyDetail";
+// import { useNavigate } from "react-router-dom";
+
+const initialValues = {
+  phone: "",
+};
+
+const Authentication = () => {
+  const [first, setfirst] = useState(true)
+  // const navigate = useNavigate();
+
+    // const handleSubmit = (e) => {
+    //   e.preventdefault()
+    //   // navigate("/Verifycomnents")
+    //   if (String(values.phone).length === 10) {
+    //     // navigate("/VerifyDetail");
+    //     console.log("first")
+    //   } else {
+    //     console.log("error");
+    //   }
+    // };
+
+  const { values, errors, touched, handleBlur, handleChange,handleSubmit} =
+    useFormik({
+      initialValues,
+      validationSchema: Authenticationvalidation,
+      onSubmit: (values, action) => {
+        setfirst(false)
+        console.log("Authentication Value---000", values);
+        action.resetForm();
+      },
+    });
+  console.log("Authentication Value---111", values);
+  console.log("Authentication errors---222", errors);
+
+  return (
+    <> 
+    {first ? (
+      <div className="Authentication-div">
+      <h2 className="data-heading">
+        Apply for financial aid with Beam Capital
+      </h2>
+      <h4 className="data-title">
+        Making critical financial aid accessible to everyone in India
+      </h4>
+      <form onSubmit={handleSubmit}>
+        
+        <InputField
+          type="number"
+          label="Enter your mobile number"
+          name="phone"
+          value={values.phone}
+          placeholder={"+91 98545 59863"}
+          onChange={(e) =>
+            String(e.target.value).length < 11 ? handleChange(e) : ""
+          }
+          onBlur={handleBlur}
+        />
+        {errors.phone && touched.phone ? (
+          <p className="form-error">{errors.phone}</p>
+        ) : null}
+
+        <ButtonComp name={"Continue"} type="submit"/>
+      </form>
+
+      <h6 className="footerpart">
+        By clicking continue, you agree with our <u>terms and conditions</u> and
+        <u>privacy policy</u> .
+      </h6>
+    </div>
+    ): <VerifyDetail />}
+   </>
+  );
+};
+
+export default Authentication;
+
+
+rajivbhai
+
+
+import React, { useState, useEffect } from "react";
+import Container from "../../../component/components/container";
+import { useFormik } from "formik";
+import "./Identitydetails.scss";
+import InputField from "../../../component/Formcomponent/InputField";
+import ButtonComp from "../../../component/Formcomponent/ButtonComp";
+
+import Button from "../../../component/components/RoundButton";
+import { useNavigate } from "react-router-dom";
+import {
+  val1,
+  val2,
+  additionalFields,
+  Identitydetailsvalidation,
+} from "../../../schemas/Identitydetailsvalidation";
+import { object } from "yup";
+
+// import {Identitydetailsvalidation,additionalFieldsValidationSchema} from "../../../schemas";
+// validationSchema={Identitydetailsvalidation ? additionalFieldsValidationSchema : { ...additionalFieldsValidationSchema, ...Identitydetailsvalidation }},
+
+const initialValues = {
+  date: "",
+  fathername: "",
+  mothername: "",
+  address: "",
+  pincode: "",
+};
+
+const additionalValues = {
+  PermanentAddress: "",
+  updatePincode: "",
+};
+
+// const initialValues1 = {
+//   date: "",
+//   fathername: "",
+//   mothername: "",
+//   address: "",
+//   pincode: "",
+// };
+
+// const initialValues2 = {
+//   PermanentAddress: "",
+//   updatePincode: "",
+// };
+
+// const mergedInitialValues = { ...initialValues1, ...initialValues2 };
+
+const Identitydetails = () => {
+  const navigate = useNavigate();
+
+  const [isActiveone, setIsActiveone] = useState("Yes");
+  const [isActivetwo, setIsActivetwo] = useState("Owned");
+  const [address, setAddress] = useState(false);
+  const [formValue, setFormValue] = useState(initialValues);
+  const [formSchema, setFormSchema] = useState(Identitydetailsvalidation);
+
+  //   additionalFieldsValidationSchema
+  // Identitydetailsvalidation
+
+  useEffect(() => {
+    if (address) {
+      let schema1 = {};
+      let value = {};
+      const field = [...val1, ...val2];
+      for (let data of field) {
+        schema1[data.name] = data.type;
+        value[data.name] = data.initialValue;
+      }
+
+      setFormSchema(object().shape(schema1));
+      setFormValue(value);
+    } else {
+      let schema1 = {};
+      let value = {};
+      for (let data of val1) {
+        schema1[data.name] = data.type;
+        value[data.name] = data.initialValue;
+      }
+
+      setFormSchema(object().shape(schema1));
+      setFormValue(value);
+    }
+    console.log("first");
+  }, [address]);
+
+  const getSchema = () => {
+    if (address) {
+      const schema1 = {};
+      const field = [...val1, ...val2];
+      for (let data of field) {
+        schema1[data.name] = data.type;
+      }
+      return object().shape(schema1);
+    } else {
+      const schema1 = {};
+      for (let data of val1) {
+        schema1[data.name] = data.type;
+      }
+      return object().shape(schema1);
+    }
+  };
+
+  const getInitialValue = () => {
+    if (address) {
+      const field = [...val1, ...val2];
+      return Object.fromEntries(
+        field.map((field) => [field.name, field.initialValue])
+      );
+    }
+    return Object.fromEntries(
+      val1.map((field) => [field.name, field.initialValue])
+    );
+  };
+
+  const { values, errors, touched, handleBlur, handleChange, handleSubmit } =
+    useFormik({
+      initialValues: address
+        ? { ...initialValues, ...additionalValues }
+        : initialValues,
+      validationSchema: address ? additionalFields : Identitydetailsvalidation,
+      onSubmit: (values, action) => {
+        console.log("values", values);
+        navigate("/IdentityVerification");
+        action.resetForm();
+      },
+    });
+
+  console.log("Identitydetails Value---111", values);
+  console.log("Identitydetails errors---222", errors);
+
+  const primitivebtn1 = (e) => {
+    e.preventDefault();
+    setIsActiveone("Yes");
+    setAddress(false);
+  };
+  const primitivebtn2 = (e) => {
+    e.preventDefault();
+    setIsActiveone("No");
+    setAddress(true);
+  };
+
+  const Ownedbtn = (e) => {
+    e.preventDefault();
+    setIsActivetwo("Owned");
+  };
+
+  const Rentedbtn = (e) => {
+    e.preventDefault();
+    setIsActivetwo("Rented");
+  };
+  return (
+    <Container>
+      <div className="identitydetails-maindiv">
+        <h1 className="heading">Identity</h1>
+
+        <p className="heading-text">
+          The indian Goverment requires us to collect your
+          <br /> Identity details for verification purposes.
+        </p>
+        <form onSubmit={handleSubmit}>
+          <InputField
+            name="date"
+            type="date"
+            label="Date of birth (DD/MM/YYYY)"
+            autoComplete="off"
+            placeholder={"12/04/1998"}
+            value={values.date}
+            onChange={handleChange}
+            onBlur={handleBlur}
+          />
+          {errors.date && touched.date ? (
+            <p className="form-error">{errors.date}</p>
+          ) : null}
+
+          <InputField
+            name="fathername"
+            type="text"
+            label="Father’s name"
+            autoComplete="off"
+            placeholder={"John David Doe"}
+            value={values.fathername}
+            onChange={handleChange}
+            onBlur={handleBlur}
+          />
+          {errors.fathername && touched.fathername ? (
+            <p className="form-error">{errors.fathername}</p>
+          ) : null}
+
+          <InputField
+            name="mothername"
+            type="text"
+            label="Mother’s name"
+            autoComplete="off"
+            placeholder={"John David Doe"}
+            value={values.mothername}
+            onChange={handleChange}
+            onBlur={handleBlur}
+          />
+          {errors.mothername && touched.mothername ? (
+            <p className="form-error">{errors.mothername}</p>
+          ) : null}
+
+          <p className="heading-text-2">
+            Is your current address same as your permanent address?
+          </p>
+
+          <div className="Identity-button1">
+            <Button
+              name="Yes"
+              onClick={primitivebtn1}
+              isActive={isActiveone === "Yes"}
+            />
+            <Button
+              name="No"
+              onClick={primitivebtn2}
+              isActive={isActiveone === "No"}
+            />
+          </div>
+
+          <InputField
+            name="address"
+            type="text"
+            label="Current/Permanent Address"
+            autoComplete="off"
+            placeholder={"19/A, XYZ building, NR street, Mumbai 400019"}
+            value={values.address}
+            onChange={handleChange}
+            onBlur={handleBlur}
+          />
+          {errors.address && touched.address ? (
+            <p className="form-error">{errors.address}</p>
+          ) : null}
+
+          <InputField
+            name="pincode"
+            type="number"
+            label="Pincode"
+            autoComplete="off"
+            placeholder={"400019"}
+            onChange={(e) =>
+              String(e.target.value).length < 7 ? handleChange(e) : ""
+            }
+            onBlur={handleBlur}
+            value={values.pincode}
+          />
+          {errors.pincode && touched.pincode ? (
+            <p className="form-error">{errors.pincode}</p>
+          ) : null}
+
+          {address ? (
+            <>
+              <hr />
+              <InputField
+                name="PermanentAddress"
+                type="text"
+                label="Permanent Address"
+                autoComplete="off"
+                placeholder={"19/A, XYZ building, NR street, Mumbai 400019"}
+                onChange={handleChange}
+                onBlur={handleBlur}
+                value={values.PermanentAddress}
+              />
+              {errors.PermanentAddress && touched.PermanentAddress ? (
+                <p className="form-error">{errors.PermanentAddress}</p>
+              ) : null}
+
+              <InputField
+                name="updatePincode"
+                type="number"
+                label="Pincode"
+                autoComplete="off"
+                placeholder={"400019"}
+                onChange={(e) =>
+                  String(e.target.value).length < 7 ? handleChange(e) : ""
+                }
+                onBlur={handleBlur}
+                value={values.updatePincode}
+              />
+              {errors.updatePincode && touched.updatePincode ? (
+                <p className="form-error">{errors.updatePincode}</p>
+              ) : null}
+            </>
+          ) : null}
+
+          <div className="ownership-status">
+            <p className="heading-text-3">Residence ownership status</p>
+
+            <div className="Identity-button2">
+              <Button
+                name="Owned"
+                onClick={Ownedbtn}
+                isActive={isActivetwo === "Owned"}
+              />
+              <Button
+                name="Rented"
+                onClick={Rentedbtn}
+                isActive={isActivetwo === "Rented"}
+              />
+            </div>
+          </div>
+          <ButtonComp name={"Next"} type="submit" />
+        </form>
+      </div>
+    </Container>
+  );
+};
+
+export default Identitydetails;
+
+
+validation scheme
+
+import { Field } from "formik";
+import * as Yup from "yup";
+
+// const additionalFieldsValidationSchema = Yup.object({
+//   PermanentAddress:Yup.string().min(10).max(30).required("Enter your Address"),
+//   updatePincode:Yup.string().min(6).max(6).required("Enter your Pincode"),
+// });
+
+export const Identitydetailsvalidation = Yup.object({
+  date: Yup.date()
+    .required("Start Date is Required")
+    .max(new Date(), "End Date must be later than today"),
+  fathername: Yup.string()
+    .min(2)
+    .max(15)
+    .required("Please enter your Fathername"),
+  mothername: Yup.string()
+    .min(2)
+    .max(15)
+    .required("Please enter your Mothername"),
+  address: Yup.string().min(10).max(30).required("Enter your Address"),
+  pincode: Yup.string().min(6).max(6).required("Enter your Pincode"),
+
+  // additionalFields: additionalFieldsValidationSchema
+  // // Yup.object({
+  // //   PermanentAddress:Yup.string().min(10).max(30).required("Enter your Address"),
+  // //   updatePincode:Yup.string().min(6).max(6).required("Enter your Pincode"),
+  // // })
+});
+
+
+
+export const additionalFields = Yup.object({
+  date: Yup.date()
+    .required("Start Date is Required")
+    .max(new Date(), "End Date must be later than today"),
+  fathername: Yup.string()
+    .min(2)
+    .max(15)
+    .required("Please enter your Fathername"),
+  mothername: Yup.string()
+    .min(2)
+    .max(15)
+    .required("Please enter your Mothername"),
+  address: Yup.string().min(10).max(30).required("Enter your Address"),
+  pincode: Yup.string().min(6).max(6).required("Enter your Pincode"),
+  PermanentAddress: Yup.string().min(10).max(30).required("Enter your Address"),
+  updatePincode: Yup.string().min(6).max(6).required("Enter your Pincode"),
+  PermanentAddress: Yup.string().min(10).max(30).required("Enter your Address"),
+  updatePincode: Yup.string().min(6).max(6).required("Enter your Pincode"),
+});
+export const val1 = [
+  {
+    name: "date",
+    initialValue: "",
+    type: Yup.date()
+      .required("Start Date is Required")
+      .max(new Date(), "End Date must be later than today"),
+  },
+  {
+    name: "fathername",
+    initialValue: "",
+    type: Yup.string().min(2).max(15).required("Please enter your Fathername"),
+  },
+  {
+    name: "mothername",
+    initialValue: "",
+    type: Yup.string().min(2).max(15).required("Please enter your Mothername"),
+  },
+  {
+    name: "address",
+    initialValue: "",
+    type: Yup.string().min(10).max(30).required("Enter your Address"),
+  },
+  {
+    name: "pincode",
+    initialValue: "",
+    type: Yup.string().min(6).max(6).required("Enter your Pincode"),
+  },
+];
+
+export const val2 = [
+  {
+    name: "PermanentAddress",
+    initialValue: "",
+    type: Yup.string().min(10).max(30).required("Enter your Address"),
+  },
+  {
+    name: "updatePincode",
+    initialValue: "",
+    type: Yup.string().min(6).max(6).required("Enter your Pincode"),
+  },
+];
+
+
+
+
